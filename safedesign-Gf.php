@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Gravity Forms IR Mobile add-on
- * Plugin URI: http://arminjamali.ir/gf_IR_mobile
+ * Plugin URI: https://github.com/mahdi-seifi/Gravity-Forms-IR-Mobile-add-on
  * Description: فرمت شماره موبایل ایران برای فیلد موبایل گرویتی فرم و جلوگیری کردن از ورود کاراکتر حروف در فیلد تلفن
  * Author: Mohammad Mahdi Seifi
  * Version: 1.1.0
